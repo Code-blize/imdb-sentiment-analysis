@@ -29,6 +29,8 @@ Precision: 90% (Negative), 89% (Positive)
 Recall: 89% (Negative), 90% (Positive)
 F1-Score: 89% (Both classes)
 ```
+<img width="1366" height="728" alt="image" src="https://github.com/user-attachments/assets/0d3c97fd-69da-4099-b670-84c08a102feb" />
+
 
 ##  Future Improvements
 - Implement TF-IDF weighting
