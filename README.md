@@ -1,7 +1,5 @@
 # IMDB Movie Review Sentiment Analysis
 
-# IMDB Movie Review Sentiment Analysis
-
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Accuracy](https://img.shields.io/badge/accuracy-89.35%25-brightgreen.svg)
@@ -9,7 +7,7 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0+-yellow.svg)
 ![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)
-Built from scratch as part of my AI/ML internship preparation - demonstrates end-to-end NLP pipeline implementation.
+
 
 Built from scratch as part of my AI/ML internship preparation - demonstrates end-to-end NLP pipeline implementation.
 
